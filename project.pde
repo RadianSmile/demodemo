@@ -12,7 +12,7 @@ void draw (){
   blueCar.display() ;
   redCar.display() ;
   
-  redCar.moveForward() ;
+  //redCar.moveForward() ;
   blueCar.moveForward() ;
 
 }
